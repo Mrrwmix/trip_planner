@@ -11,4 +11,16 @@ public class planner {
         System.out.print("What is your name? ");
         String name = input.nextLine();
     }
+
+    public static void budget(Scanner input){
+
+    }
+
+    public static void time(Scanner input){
+
+    }
+
+    public static void distance(Scanner input){
+        
+    }
 }
